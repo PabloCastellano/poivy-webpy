@@ -1,0 +1,10 @@
+This is a shabby-test web application made in Webpy python web framework.
+
+At the moment you can only use it to send SMS through Poivy.
+My idea is supporting other betamax resellers
+
+Main branch is available at github:
+browse: https://github.com/PabloCastellano/poivy-webpy
+git:    git://github.com/PabloCastellano/poivy-webpy.git
+
+-- Pablo.
